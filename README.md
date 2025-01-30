@@ -1,2 +1,1 @@
-# css_browser_selector.js
-POC added
+# Sqills bugbounty POC
